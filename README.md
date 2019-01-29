@@ -7,4 +7,4 @@ How to run:
 3. Import the sql file(present in the repo)
 4. Make necessary changes in the database connection parameters, like password, user, etc..
 
-
+Live hosted Websited URL: http://risinginstitute.eu5.net/student_all.php
