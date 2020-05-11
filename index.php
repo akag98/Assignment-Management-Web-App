@@ -87,10 +87,10 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-  $servername="fdb23.freehostingeu.com";
-  $username="2831331_phpdb";
-  $password="akshayag98";
-  $dbname="2831331_phpdb";
+  $servername="-";
+  $username="-";
+  $password="-";
+  $dbname="-";
   $conn=new mysqli($servername,$username,$password,$dbname);
   if($conn->connect_error){
     die("Connection failed: " . $conn->connect_error);
